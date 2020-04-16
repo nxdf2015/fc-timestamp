@@ -1,3 +1,4 @@
+   
 
 # API Project: Timestamp Microservice for FCC
 
@@ -17,3 +18,15 @@ e.g. `{"unix": 1479663089000 ,"utc": "Sun, 20 Nov 2016 17:31:29 GMT"}`.
 
 #### Example output:
 * { "unix": 1450137600, "natural": "December 15, 2015" }
+=======
+# fc-timestamp
+## [free codecamp project microservice](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/timestamp-microservice)
+
+
+
+
+### api :  /api/timestamp/:dateString
+### return { unix : timestamp in millisecond , utc : utc time } 
+#### [documentation](https://github.com/nxdf2015/fc-timestamp/tree/glitch)
+#### project on glitch branch [see server file](https://github.com/nxdf2015/fc-timestamp/blob/glitch/server.js)
+  
